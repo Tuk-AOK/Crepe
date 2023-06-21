@@ -18,17 +18,17 @@ Crepe : 원격 저장소를 활용한 그래픽 레이어 관리 플랫폼
         <th>사진</th>
          <td width="100" align="center">
             <a href="https://github.com/Ellie010707">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/c112900e-7f71-4acf-b884-b87faa16b81e" width="100" height="100">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/bde26f2e-dff9-479d-b9b8-1d35f1816720" width="100" height="100">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/taeyang0206">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/40ef3502-1ed7-457c-a530-8cd8a298bd18" width="100" height="100">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/2c4b893e-a921-47e8-882f-f402ae0cca6f" width="100" height="100">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/sdylockon">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/366f1b97-f503-4e31-8eaf-17a9cc7c3d46" width="100" height="100">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/f3be0d2d-5802-41e1-8dcb-503185e001cc" width="100" height="100">
             </a>
         </td>
     </tr>
