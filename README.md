@@ -18,7 +18,7 @@ Crepe : 원격 저장소를 활용한 그래픽 레이어 관리 플랫폼
         <th>사진</th>
          <td width="100" align="center">
             <a href="https://github.com/Ellie010707">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/bde26f2e-dff9-479d-b9b8-1d35f1816720" width="100" height="100">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/38b43acf-ab06-47d1-92c6-a05d99b42c05" width="100" height="100">
             </a>
         </td>
         <td width="100" align="center">
