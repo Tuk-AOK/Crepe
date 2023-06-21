@@ -18,17 +18,17 @@ Crepe : 원격 저장소를 활용한 그래픽 레이어 관리 플랫폼
         <th>사진</th>
          <td width="100" align="center">
             <a href="https://github.com/Ellie010707">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/c112900e-7f71-4acf-b884-b87faa16b81e" width="60" height="60">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/c112900e-7f71-4acf-b884-b87faa16b81e" width="100" height="100">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/taeyang0206">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/40ef3502-1ed7-457c-a530-8cd8a298bd18" width="60" height="60">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/40ef3502-1ed7-457c-a530-8cd8a298bd18" width="100" height="100">
             </a>
         </td>
         <td width="100" align="center">
             <a href="https://github.com/sdylockon">
-                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/366f1b97-f503-4e31-8eaf-17a9cc7c3d46" width="60" height="60">
+                <img src="https://github.com/Tuk-AOK/Crepe/assets/41159837/366f1b97-f503-4e31-8eaf-17a9cc7c3d46" width="100" height="100">
             </a>
         </td>
     </tr>
@@ -67,11 +67,6 @@ Crepe : 원격 저장소를 활용한 그래픽 레이어 관리 플랫폼
         <td width="100" align="center">
             <a href="https://github.com/sdylockon">
                 <img src="http://img.shields.io/badge/sdylockon-green?style=social&logo=github"/>
-            </a>
-        </td>
-        <td width="100" align="center">
-            <a href="">  
-                <img src=""/>
             </a>
         </td>
     </tr>
